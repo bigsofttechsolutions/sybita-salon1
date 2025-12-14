@@ -1,0 +1,1 @@
+export default ()=> <a href='https://wa.me/919999999999' className='fixed bottom-6 right-6 bg-green-500 px-4 py-3 rounded-full'>WhatsApp</a>

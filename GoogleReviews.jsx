@@ -1,0 +1,1 @@
+export default ()=> <iframe className='w-full h-[400px]' loading='lazy' src='https://www.google.com/maps?q=salon&output=embed'></iframe>
