@@ -1,0 +1,1 @@
+export default ()=> <header className='bg-black p-4 text-gold text-xl'>Sybita Unisex Salon</header>

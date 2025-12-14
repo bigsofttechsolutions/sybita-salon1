@@ -1,0 +1,1 @@
+export default ()=> <footer className='bg-gray-900 p-6 text-center'>© Sybita Salon</footer>
